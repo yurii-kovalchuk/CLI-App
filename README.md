@@ -1,17 +1,17 @@
 # CLI-App
 
-# Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
+# Отримуємо і виводимо весь список контактів
 
-https://drive.google.com/file/d/1iOBFy4-1ygW3aXPMCsC78Vd-PAHo0bXP/view?usp=sharing
+https://drive.google.com/file/d/1o-ntFOM4Nps6_X92fUobZ_Qtqs_z87pF/view?usp=sharing
 
 # Отримуємо контакт по id
 
-https://drive.google.com/file/d/1m0PhSjzsSjylhvnOGSDB8iKC49BCqfG3/view?usp=sharing
+https://drive.google.com/file/d/1TYq8_QSmkciLGtZvGsO_9wq9STQUp49h/view?usp=sharing
 
 # Додаємо контакт
 
-https://drive.google.com/file/d/1JrfM9-6P8VjZJjygL_PN7adUe55MBLp_/view?usp=sharing
+https://drive.google.com/file/d/1k1cjxp1rT_GLw7VoV5amXj9RxrQDW40U/view?usp=sharing
 
 # Видаляємо контакт
 
-https://drive.google.com/file/d/1Epxs5TFQLrfv6lltcfCdBt9AUJFVMfHM/view?usp=sharing
+https://drive.google.com/file/d/1wCMgS8LQovDYrE8meBpEDsvyA5WjrKI7/view?usp=sharing
